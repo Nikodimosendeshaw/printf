@@ -3,7 +3,7 @@
 .SH NAME
 _printf - format and write a string, character or integer to stdout
 .SH SYNOPSIS
-#include "holberton.h"
+#include "main.h"
 .br
 #include <stdarg.h>
 .br
@@ -48,4 +48,4 @@ In the Example print the value of text with %s give the format of text.
 - prints integer number.
 
 .SH AUTHORS
-B. Hayatu Sanusi and Aaron Mazuri
+B. NIKODIMOS and NOEL

@@ -1,5 +1,5 @@
-#ifndef __HOLBERTON_H__
-#define __HOLBERTON_H__
+#ifndef __MAIN_H__
+#define __MAIN_H__
 
 #include <stdarg.h>
 #include <stdlib.h>
@@ -29,4 +29,4 @@ int print_unsigned_digit(unsigned int num, int *count);
 int print_digit_octal(unsigned int num, int *count);
 int call_print_fn(char ch, va_list ap);
 
-#endif /* __HOLBERTON_H__ */
+#endif /* __MAIN_H__ */
